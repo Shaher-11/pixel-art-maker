@@ -12,7 +12,7 @@
 
 - HTML
 - CSS
-- SASS
+- JavaScript
 
 ## Live Demo
 
