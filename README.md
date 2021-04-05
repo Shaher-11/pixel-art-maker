@@ -1,7 +1,7 @@
 
 ![](https://img.shields.io/badge/pixelartmaker-blueviolet)
 
-# Fabulous-tours
+# pixel-art-maker
 
 > This project is for a travel agency specialized in outdoors trips and adventures the project built entirely  with HTML, CSS, and SASS.
 
