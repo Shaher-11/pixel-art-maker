@@ -3,7 +3,7 @@
 
 # pixel-art-maker
 
-> This project is for a travel agency specialized in outdoors trips and adventures the project built entirely  with HTML, CSS, and SASS.
+> Simple website for drwoing over the page with colors
 
 
 ![screenshot](./img/fabu.png)
