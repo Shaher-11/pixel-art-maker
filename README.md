@@ -5,7 +5,6 @@
 
 > Simple website for drwoing over the page with colors and it has an interactive grid.
 
-
 ![screenshot](./img/fabu.png)
 
 ## Built With
