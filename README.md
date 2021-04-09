@@ -3,7 +3,7 @@
 
 # pixel-art-maker
 
-> Simple website for drwoing over the page with colors
+> Simple website for drwoing over the page with colors and it has an interactive grid.
 
 
 ![screenshot](./img/fabu.png)
