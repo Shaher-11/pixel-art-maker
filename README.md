@@ -15,7 +15,6 @@
 
 [Live Demo Link](https://fabuloustours.netlify.app/)
 
-
 ## Authors
 
 👤 **Author**
