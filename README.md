@@ -30,7 +30,6 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Jonas Schmedtmann
 - CSS tricks
 
 ## 📝 License
